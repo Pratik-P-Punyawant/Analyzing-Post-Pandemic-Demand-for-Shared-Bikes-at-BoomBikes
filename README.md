@@ -1,4 +1,4 @@
-# BoomBikes Shared Bike Demand Analysis-
+# BoomBikes Shared Bike Demand Analysis
 
 BoomBikes, a US-based bike-sharing service provider, has faced significant revenue challenges due to the COVID-19 pandemic. To recover and thrive post-lockdown, the company aims to understand the factors driving the demand for shared bikes. This project involves analyzing a large dataset to model bike demand based on various features, enabling BoomBikes to optimize its business strategy and cater to market needs effectively.
 
